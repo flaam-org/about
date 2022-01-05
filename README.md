@@ -1,10 +1,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/flaam-org">
-    <img src="assets/icon.svg" alt="Logo" width="200" height="200">
+    <img src="assets/icon-text.svg" alt="Logo" width="200" height="200">
   </a>
-
-  <h2 align="center">Flaam</h2>
 
   <p align="center">
     A Platform for sharing Ideas.
